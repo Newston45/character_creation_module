@@ -107,3 +107,6 @@ def start_training(character):
         if cmd in game_classes:
             print(game_classes[cmd])
     return 'Тренировка окончена.'
+
+
+print('hello')
